@@ -3,7 +3,7 @@ package hello;
 public class Main {
 
     public static void main(String[] args) {
-        greeting("hello 123");
+        greeting("test");
     }
     
     
